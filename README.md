@@ -1,5 +1,3 @@
-# AI-Modeling-Researcher_code
-
 # Case Study A
 RAG를 이용해서 지식 상담형 챗봇을 만드는 상황을 가정해 봅시다. 
 
